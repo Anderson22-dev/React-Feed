@@ -1,0 +1,9 @@
+body {
+  background: var(--Neutral-Colors-Grey-Grey-900, #121214);
+  color: #fff;
+}
+button {
+  border-radius: 8px;
+  background: var(--Brand-Colors-Ignite-mid, #00875f);
+  color: #fff;
+}
